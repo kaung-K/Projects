@@ -1,0 +1,7 @@
+https://api.themoviedb.org/3/movie/now_playing?api_key=
+
+https://image.tmdb.org/t/p/w500/MOVIE_PATH
+
+https://api.themoviedb.org/3/movie/{movie_id}
+
+https://api.themoviedb.org/3/search/movie?query=SEARCH_DATA&api_key=

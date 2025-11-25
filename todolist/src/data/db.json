@@ -1,0 +1,14 @@
+{
+  "todo-list": [
+    {
+      "id": "5f57db1c-9113-f99b-9f25-77ff50818f9b",
+      "task": "New Task",
+      "complete": false
+    },
+    {
+      "id": "8d19c4af-c7cf-34ef-b64f-be7552f5127b",
+      "task": "Hello",
+      "complete": false
+    }
+  ]
+}
